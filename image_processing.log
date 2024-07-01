@@ -1,0 +1,15 @@
+2024-06-28 20:22:11,183:INFO:Entrando na pasta: images\image1
+2024-06-28 20:25:21,764:INFO:Saindo do programa
+2024-06-28 20:26:00,516:INFO:Opção selecionada: Redimensionar imagens 1200x1200
+2024-06-28 20:26:00,516:INFO:Entrando na pasta: images\image1
+2024-06-28 20:26:00,516:INFO:Arquivo encontrado: images\image1\D_NQ_NP_2X_986103-MLA73797277966_012024-F.jpeg
+2024-06-28 20:26:00,596:INFO:Imagem redimensionada com sucesso: resized-images\image1\D_NQ_NP_2X_986103-MLA73797277966_012024-F.jpeg
+2024-06-28 20:30:56,226:INFO:Opção selecionada: Smart Resize
+2024-06-28 20:30:56,227:INFO:Entrando na pasta: images\image1
+2024-06-28 20:30:56,227:INFO:Arquivo encontrado: images\image1\D_NQ_NP_2X_986103-MLA73797277966_012024-F.jpeg
+2024-06-28 20:30:56,279:INFO:Usando resize_image para: images\image1\D_NQ_NP_2X_986103-MLA73797277966_012024-F.jpeg
+2024-06-28 20:30:56,331:INFO:Imagem redimensionada com sucesso: resized-images\image1\D_NQ_NP_2X_986103-MLA73797277966_012024-F.jpeg
+2024-06-28 20:30:56,332:INFO:Arquivo encontrado: images\image1\D_NQ_NP_885408-MLA73797416798_012024-O.jpeg
+2024-06-28 20:30:56,333:INFO:Usando resize_and_center_image para: images\image1\D_NQ_NP_885408-MLA73797416798_012024-O.jpeg
+2024-06-28 20:30:56,349:INFO:Imagem processada com sucesso: resized-images\image1\D_NQ_NP_885408-MLA73797416798_012024-O.jpeg
+2024-06-28 20:31:18,003:INFO:Saindo do programa
