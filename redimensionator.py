@@ -87,6 +87,11 @@ output_base_folder = "resized-images"
 if not os.path.exists(output_base_folder):
     os.makedirs(output_base_folder)
 
+# 
+main_folder = "images"
+if not os.path.exists(main_folder):
+    os.makedirs(main_folder)
+
 while True:
     option = input(
     """
