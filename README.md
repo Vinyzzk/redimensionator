@@ -12,7 +12,7 @@ Put images files in "images" directory and run the script.
 2. Its just a function to redimensioning images.
 3. Smart function, can be useful in massive works, but the accuracy is not 100%.
 
-All functions redimensionate images to 1200x1200 resoluction.
+All functions redimensionate images to 1200x1200 resolution.
 
 # Coming soon
 1. Resolution will be customizable.
